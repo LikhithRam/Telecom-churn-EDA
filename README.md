@@ -1,0 +1,4 @@
+# Telecom-churn-EDA
+Telecom churn EDA
+To give a very simple idea about the topic, these days we see that almost everyone around has a mobile phone in their hands, and the spread of mobile carriers is so huge in the market. And what this means is, we will not be having new customers and we will be needing to retain the existing customers, and also according to a survey, acquiring a new customer is too costly for a company when compared to retaining them. 
+And after this, if a customer is cancelling their current subscription and moving for a different one, then this is called churning. So Churn is a behaviour of the customer who switches from one subscription to another. And a company or a business should be aware of the customers who are likely to cancel their subscription in the near future, otherwise they might be facing revenue hits.
